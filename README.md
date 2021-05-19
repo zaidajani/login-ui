@@ -2,6 +2,6 @@
 
 Login UI Made in HTML, CSS, and Bootstrap. 
 
-![demo](./demo.jpg)
+![demo](./demo.png)
 
 ## Enjoy your powerfull application
