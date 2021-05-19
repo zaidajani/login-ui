@@ -1,0 +1,37 @@
+nav {
+  position: absolute;
+  background: #9ae3f7;
+  height: 9vh;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+}
+
+.image {
+  width: 40%;
+}
+
+.line {
+  position: relative;
+  background-color: white;
+  left: 96%;
+  height: 3px;
+  margin: 5px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.lineArea {
+  margin-top: 25px;
+}
+
+.top {
+  position: relative;
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 1000px) {
+  .line {
+    left: 83%;
+  }
+}
