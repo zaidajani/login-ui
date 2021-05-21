@@ -1,6 +1,6 @@
 # login-ui
 
-Login UI Made in HTML, CSS, and Bootstrap. 
+Login UI made in HTML, CSS, and Bootstrap. 
 
 ![demo](./demo.png)
 
